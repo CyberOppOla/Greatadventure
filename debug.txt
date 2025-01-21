@@ -1,0 +1,25 @@
+PS C:\Users\okusa\OneDrive\Documents\SOPHIA>  & 'c:\Users\okusa\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\okusa\.vscode\extensions\ms-python.debugpy-2024.14.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '51233' '--' 'c:\Users\okusa\OneDrive\Documents\SOPHIA\Olamide''s_touchstoneproject.py' 
+Welcome to the Random Story Generator!
+What is your name? Olamide
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Adventure
+
+Here is your story, Olamide:
+
+Once upon a time, A daring astronaut was in a hidden jungle. They faces a giant creature, and finally, defeats the creature.
+
+Would you like to generate another story? (yes/no): yes
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Mystery
+
+Here is your story, Olamide:
+
+Once upon a time, A brilliant detective was at a quiet seaside town. They unravels a series of strange clues, and finally, solves the case dramatically.
+
+Would you like to generate another story? (yes/no): No
+
+Thank you for using the Random Story Generator. Goodbye!
+PS C:\Users\okusa\OneDrive\Documents\SOPHIA>
+                                                  
