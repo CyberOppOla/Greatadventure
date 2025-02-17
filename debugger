@@ -1,0 +1,40 @@
+ & 'c:\Users\okusa\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\okusa\.vscode\extensions\ms-python.debugpy-2024.14.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '51985' '--' 'c:\Users\okusa\OneDrive\Documents\SOPHIA\Greatadventure\Great_adventure.py' 
+\OneDrive\Documents\SOPHIA\Greatadventure\Great_adventure.py'                             Welcome to the Random Story Generator!
+What is your name? Ola  
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Adventure
+
+Here is your story, Ola:
+
+Once upon a time, A fearless explorer was inside an ancient pyramid. They discovered a los
+t artifact, and finally, uncovered the artifact's secrets.                                
+Would you like to generate another story? (yes/no): yes
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Random
+
+Here is your story, Ola:
+
+Once upon a time, A daring astronaut was in a hidden jungle. They encountered an alien civ
+ilization, and finally, defeated the creature.                                            
+Would you like to generate another story? (yes/no): yes
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Sci-Fi
+Invalid choice. Please choose Adventure, Comedy, Mystery, or Random.
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Mysteri
+Invalid choice. Please choose Adventure, Comedy, Mystery, or Random.
+
+Choose a theme: Adventure, Comedy, Mystery, or Random
+Enter your choice: Comedy
+
+Here is your story, Ola:
+
+Once upon a time, A forgetful professor was at a fancy dinner party. They lost their magic
+ wand, and finally, improvised with surprising success.                                   
+Would you like to generate another story? (yes/no): no
+
+Thank you for using the Random Story Generator. Goodbye!
